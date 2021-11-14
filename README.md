@@ -1,4 +1,4 @@
-#Problem Statement
+# Problem Statement
 
 Create a tinyurl like service, where user can shorten URLs.
 
@@ -7,7 +7,7 @@ Create a tinyurl like service, where user can shorten URLs.
 * On inputting the short url the user will be redirected to the original page.
 
 
-##Project Setup
+## Project Setup
 * Make sure to have Java Version >= *1.8*
 * Project comes with maven wrapper
 * Clone the github repo
